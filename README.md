@@ -241,22 +241,6 @@ cd backend
 
 ---
 
-## 🎨 Screenshots
-
-### Dashboard
-![Dashboard](https://via.placeholder.com/1200x700/1e1b4b/38bdf8?text=Temp.io+Dashboard)
-
-### AI Assistant
-![AI Chat](https://via.placeholder.com/1200x700/1e1b4b/c084fc?text=AI+Assistant)
-
-### Weather Alerts
-![Alerts](https://via.placeholder.com/1200x700/1e1b4b/ef4444?text=Weather+Alerts)
-
-### Mobile View
-![Mobile](https://via.placeholder.com/400x800/1e1b4b/38bdf8?text=Mobile+View)
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
@@ -297,12 +281,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Mobile app (React Native)
 - [ ] Push notifications
 - [ ] Weather widgets
-
----
-
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=HyperPenetrator/temp-io&type=Date)](https://star-history.com/#HyperPenetrator/temp-io&Date)
 
 ---
 
